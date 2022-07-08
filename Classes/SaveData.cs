@@ -8,7 +8,6 @@ namespace datastore // Note: actual namespace depends on the project name.
          public SaveData() {
          if (File.Exists("SaveLocation")) {
           Console.WriteLine("Looking for Save Data...");
-
          } else {
             Console.WriteLine("Please Specify a Path for your games save file.");
             Console.ReadLine();
