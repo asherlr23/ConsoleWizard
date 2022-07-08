@@ -9,6 +9,7 @@ namespace ConsoleWizard // Note: actual namespace depends on the project name.
         {
         
             Console.WriteLine("Hello World!");
+            Console.ReadKey(); // wait before closing the game
         }
     }
 }
