@@ -27,6 +27,8 @@ using System.IO;
        }
 
        public void bossBattle() {
+        isPlaying = true;
+        
        }
 
         public void castSpell() {             
