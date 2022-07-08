@@ -14,17 +14,22 @@ using System.IO;
           Console.ReadLine();
           chosenOption = Console.ReadLine();
              
-          if (chosenOption == "wander") { 
-            outcome = random.Next(1,3);
+            if (chosenOption == "wander") { 
+              outcome = random.Next(1,3);
+              if (outcome==2) {
+                int randomWeapon = random.Next(1,5);
+             
 
-            if (outcome == 1) {
+              }
 
-              Console.Write("You Wander around for 2 hours. \n Eventually, You find a  ");
+                if (outcome == 1) {
+
+                  Console.Write("You Wander around for 2 hours. \n Eventually, You find a'" + randomWeapon + "'.");
 
 
-             }
+                 }
          
-          }
+            }
         
 
 

@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace SAVEDATA // Note: actual namespace depends on the project name.
+namespace datastore // Note: actual namespace depends on the project name.
 {
     public class SaveData
     { 
@@ -11,17 +11,16 @@ namespace SAVEDATA // Note: actual namespace depends on the project name.
             
           Console.WriteLine("Looking for Save Data...");
 
-         } 
-           else {
+         } else {
+          
             Console.WriteLine("Please Specify a Path for your games save file.");
             Console.ReadLine();
             saveLocation = Console.ReadLine();
             File.WriteAllText(saveLocation + "consoleWizardSave.txt", "Weapons==ThinStick");
+            
 
- 
 
          }
-
       }
         private string saveLocation = "null";
         
