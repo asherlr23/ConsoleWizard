@@ -16,19 +16,16 @@ using System.IO;
             if (chosenOption == "wander") {  
             }
          } 
-         
 
        public void load() {
         isPlaying = false;
         location = "worldMap";
         Console.Write("You walk out of your house ready to start the day.");
         playSelection();
-
        }
 
        public void bossBattle() {
         isPlaying = true;
-        
        }
 
         public void castSpell() {             
