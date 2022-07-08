@@ -13,14 +13,8 @@ using System.IO;
           Console.WriteLine("Where Shall you Go?");
           Console.ReadLine();
           chosenOption = Console.ReadLine();
-             
-            if (chosenOption == "wander") { 
-              
+            if (chosenOption == "wander") {  
             }
-        
-
-
-
          } 
          
 
@@ -33,15 +27,11 @@ using System.IO;
        }
 
        public void bossBattle() {
-
-
        }
 
-        public void castSpell() {
-             
+        public void castSpell() {             
           if (isPlaying){
-            
+            MagicalSword weapon = new MagicalSword(13);
          }
-
        }
     }
