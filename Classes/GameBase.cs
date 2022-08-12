@@ -13,43 +13,24 @@ using System.IO;
           Console.WriteLine("Where Shall you Go?");
           Console.ReadLine();
           chosenOption = Console.ReadLine();
-             
-          if (chosenOption == "wander") { 
-            outcome = random.Next(1,3);
-
-            if (outcome == 1) {
-
-              Console.Write("You Wander around for 2 hours. \n Eventually, You find a  ");
-
-
-             }
-         
-          }
-        
-
-
-
+            if (chosenOption == "wander") {  
+            }
          } 
-         
 
        public void load() {
         isPlaying = false;
         location = "worldMap";
         Console.Write("You walk out of your house ready to start the day.");
         playSelection();
-
        }
 
        public void bossBattle() {
-
-
+        isPlaying = true;
        }
 
-        public void castSpell() {
-             
+        public void castSpell() {             
           if (isPlaying){
-            
+            MagicalSword weapon = new MagicalSword(13);
          }
-
        }
     }

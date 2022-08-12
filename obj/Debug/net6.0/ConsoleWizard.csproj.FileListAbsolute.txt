@@ -1,0 +1,15 @@
+D:\C#\Projects\ConsoleWizard\bin\Debug\net6.0\ConsoleWizard.exe
+D:\C#\Projects\ConsoleWizard\bin\Debug\net6.0\ConsoleWizard.deps.json
+D:\C#\Projects\ConsoleWizard\bin\Debug\net6.0\ConsoleWizard.runtimeconfig.json
+D:\C#\Projects\ConsoleWizard\bin\Debug\net6.0\ConsoleWizard.dll
+D:\C#\Projects\ConsoleWizard\bin\Debug\net6.0\ConsoleWizard.pdb
+D:\C#\Projects\ConsoleWizard\obj\Debug\net6.0\ConsoleWizard.csproj.AssemblyReference.cache
+D:\C#\Projects\ConsoleWizard\obj\Debug\net6.0\ConsoleWizard.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Projects\ConsoleWizard\obj\Debug\net6.0\ConsoleWizard.AssemblyInfoInputs.cache
+D:\C#\Projects\ConsoleWizard\obj\Debug\net6.0\ConsoleWizard.AssemblyInfo.cs
+D:\C#\Projects\ConsoleWizard\obj\Debug\net6.0\ConsoleWizard.csproj.CoreCompileInputs.cache
+D:\C#\Projects\ConsoleWizard\obj\Debug\net6.0\ConsoleWizard.dll
+D:\C#\Projects\ConsoleWizard\obj\Debug\net6.0\refint\ConsoleWizard.dll
+D:\C#\Projects\ConsoleWizard\obj\Debug\net6.0\ConsoleWizard.pdb
+D:\C#\Projects\ConsoleWizard\obj\Debug\net6.0\ConsoleWizard.genruntimeconfig.cache
+D:\C#\Projects\ConsoleWizard\obj\Debug\net6.0\ref\ConsoleWizard.dll
